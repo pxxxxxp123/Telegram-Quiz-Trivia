@@ -7,3 +7,6 @@ User can only do the quiz once.
 /lb for the leaderboard
 
 Perfect for one time use only, if want to do again, restart the bot.
+
+WARNING
+Do not spam!
